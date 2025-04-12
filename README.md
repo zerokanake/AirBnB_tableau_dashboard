@@ -25,8 +25,8 @@ The insights are presented through an interactive Tableau dashboard, designed to
 - **Excel**: For transforming data, data wrangling and validation.
 
 ## Dashboard Preview
+![image alt](https://github.com/zerokanake/AirBnB_tableau_dashboard/blob/e8d4ec026beac2c4f1ec841c01e52eb78ae5a406/AirBnB_dashboard.png)
 
-![Dashboard Screenshot]([link-to-your-dashboard-screenshot.png](https://github.com/zerokanake/AirBnB_tableau_dashboard/blob/e8d4ec026beac2c4f1ec841c01e52eb78ae5a406/AirBnB_dashboard.png))
 
 
 
